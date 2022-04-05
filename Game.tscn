@@ -47,6 +47,9 @@ __meta__ = {
 anchor_right = 1.0
 margin_bottom = 40.0
 color = Color( 0, 0, 0, 0.25098 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
 
 [node name="Player" type="Label" parent="HUD"]
 anchor_right = 1.0
